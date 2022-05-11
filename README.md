@@ -2,7 +2,7 @@
 
 A Python project to implement an image restoration of a random corrupted MNIST dataset.
 
-In the following picture, the first column is composed of the noisy pictures, the centre with the pictures as to model output, and the last column the real pictures.
+In the following picture, the first column is composed of the noisy images, the centre with the pictures as to model output, and the last column with the actual images.
 
 ![](img/0.JPG)
 
